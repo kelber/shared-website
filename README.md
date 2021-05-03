@@ -19,11 +19,23 @@ website example 4 github trainning examples
 6 - vá na linha de comando e digite
 
 >  git add .
+
+
 > git commit -m "criei 2 arquivos novos"
+
+
 > git push 
+
+
 obs:  se deu erro na linha de comando pegue o formato de como escrever.... exemplo 
 
+
+
 > git push --set-upstream origin master
+
+
+F.I.M
+
 
 
 
