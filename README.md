@@ -34,6 +34,12 @@ obs:  se deu erro na linha de comando pegue o formato de como escrever.... exemp
 > git push --set-upstream origin master
 
 
+
+#### obs: 
+
+Caso o git pull não funcione é por que você não salvou os arquivos na sua maquina localmente ( precisa fazer o git add . e git commit novamente... )
+
+
 F.I.M
 
 
